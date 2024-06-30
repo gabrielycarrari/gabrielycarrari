@@ -3,12 +3,13 @@
 <br>
 ... ou apenas Gaby para os mais íntimos. Sou técnica em informática e atualmente estou cursando um Bacharelado em Sistemas de Informação.
 
-<br>Trabalho como desenvolvedora Full Stack em um projeto bem legal e estou em busca de novos aprendizados e novas tecnologias. 
+<br>Faço parte da equipe de desenvolvimento da [Triágil](https://www.linkedin.com/company/triagil/) e estou sempre em busca de novos aprendizados!
 <hr>
 
 🖥️ Tecnologias e Ferramentas:
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" height="35"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" height="35"/>
