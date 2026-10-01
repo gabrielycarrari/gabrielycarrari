@@ -1,7 +1,7 @@
 ## Olá! Sou Gabriely Machado Carrari👋
 
 <br>
-... ou apenas Gaby para os mais íntimos. Sou técnica em informática e atualmente estou cursando um Bacharelado em Sistemas de Informação.
+... ou apenas Gaby para os mais íntimos. Sou técnica em informática, formada em Sistemas de Informação e uma grande entusiasta da tecnologia.
 
 <br>Faço parte da equipe de desenvolvimento da [Triágil](https://www.linkedin.com/company/triagil/) e estou sempre em busca de novos aprendizados!
 <hr>
